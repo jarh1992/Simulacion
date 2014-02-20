@@ -45,6 +45,8 @@ class Congruencial_Cuadratico:
            return False
        else:
            return True
+           
+           #daniel esta gordooo!!
 
 
 
